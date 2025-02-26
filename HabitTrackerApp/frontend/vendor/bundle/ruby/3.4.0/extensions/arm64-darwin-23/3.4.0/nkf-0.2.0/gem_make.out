@@ -1,0 +1,18 @@
+current directory: /Users/zach/Documents/GitHub/Gamified Life/HabitTrackerApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/zach/Documents/GitHub/Gamified Life/HabitTrackerApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250225-46372-k8pkvq sitelibdir\=./.gem.20250225-46372-k8pkvq clean
+
+current directory: /Users/zach/Documents/GitHub/Gamified Life/HabitTrackerApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250225-46372-k8pkvq sitelibdir\=./.gem.20250225-46372-k8pkvq
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/zach/Documents/GitHub/Gamified Life/HabitTrackerApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250225-46372-k8pkvq sitelibdir\=./.gem.20250225-46372-k8pkvq install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250225-46372-k8pkvq
+
+current directory: /Users/zach/Documents/GitHub/Gamified Life/HabitTrackerApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250225-46372-k8pkvq sitelibdir\=./.gem.20250225-46372-k8pkvq clean
